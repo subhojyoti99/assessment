@@ -16,7 +16,7 @@ const HomeContainer = () => {
           </motion.div>
         </div>
 
-        <p className="text-[2rem] lg:text-[4.5rem] font-bold tracking-wide">The Fastest Delivery in
+        <p className="text-[2rem] lg:text-[4.5rem] font-bold tracking-wide">Vegetables & Fruits in
          <span className="text-slate-900 text-[2.5rem] lg:text-[4.5rem]">Your City</span></p>
          <p className="text-base text-center md:text-left md:w-[80%]">Hello this is a delivery app</p>
          <motion.button whileTap={{ scale: 0.9 }} className="w-32 md:w-40 md:h-8 bg-gradient-to-br from-slate-300 to-slate-900 rounded-full hover:shadow-lg" type="button">Order Now</motion.button>
