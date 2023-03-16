@@ -1,6 +1,8 @@
 # This is Rental Parrot
 ## Mostly a vegetable delivery webapp
 
+# Select cart payment & order
+
 ![image](https://user-images.githubusercontent.com/84560030/225378464-4bf0e2b4-5c21-4456-ae2f-fd8eb6b471eb.png)
 
 
@@ -14,7 +16,7 @@
 ![image](https://user-images.githubusercontent.com/84560030/225378777-4ae28702-7972-4ff2-a1b9-0d710a3a239a.png)
 
 
-## then you can order whatever you want but now it is in development... Using React ,Node and Firebase to build.
+## then you can order whatever you want but now it is in development...
 
 ## in the Bottom I add my resume you can check it too...
 
