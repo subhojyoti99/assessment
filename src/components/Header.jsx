@@ -164,7 +164,7 @@ const Header = () => {
                 <li className="px-2 py-1 flex items-center gap-2 cursor-pointer
                   hover:bg-blue-900 hover:border-2 border-stone-600 transition-all 
                     duration-100 ease-in-out text-white text-xs"
-                    onClick={() => setIsMenu(false)}>Services</li>
+                    onClick={() => setIsMenu(false)}>Why Order @RentalParrot</li>
               
 
               <p className="px-2 py-1 flex items-center gap-2 cursor-pointer
