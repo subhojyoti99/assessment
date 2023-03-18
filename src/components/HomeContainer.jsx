@@ -21,13 +21,13 @@ const HomeContainer = () => {
          <p className="text-base text-center md:text-left md:w-[80%]">Hello this is a delivery app</p>
          <motion.button whileTap={{ scale: 0.9 }} className="w-32 md:w-40 md:h-8 bg-gradient-to-br from-slate-300 to-slate-900 rounded-full hover:shadow-lg" type="button">Order Now</motion.button>
       </div>
-      <div className="py-2 flex-1 flex items-center relative">
+      <div className="py-3 flex-1 flex items-center relative">
         <img src={HeroBg} alt="hero-bg" className="ml-auto h-420 w-full lg:w-auto lg:h-600" />
 
         <div className="w-full h-full absolute top-[8%] md:top-[55%] lg:top-8 left-0 md:left-[20%] lg:left-[20%] flex items-center justify-center py-4 gap-3 lg:gap-6 flex-wrap lg:px-40">
           
           {heroData && heroData.map(n =>(
-            <div key={n.id} className="lg:w-190 p-3 bg-cardOverlay backdrop-blur-md drop-shadow-xl rounded-xl flex items-center justify-center flex-col">
+            <div key={n.id} className="lg:w-190 p-2 bg-cardOverlay backdrop-blur-md drop-shadow-xl rounded-xl flex items-center justify-center flex-col">
             <img src={n.imageSrc} alt="I1" className="w-40 -mt-20" />
             <p className="text-base font-medium text-white mt-3">
               {n.name}</p>
