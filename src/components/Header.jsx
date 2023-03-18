@@ -64,7 +64,7 @@ const Header = () => {
             <li className="text-base text-stone-700 hover:text-zinc-800 shadow-md duration-100 transition-all ease-in-out cursor-pointer">Menu</li></Link>
             <Link to={"/contactMe"}>
             <li className="text-base text-stone-700 hover:text-zinc-800 shadow-md duration-100 transition-all ease-in-out cursor-pointer">Contact Us</li></Link>
-            <li className="text-base text-stone-700 hover:text-zinc-800 shadow-md duration-100 transition-all ease-in-out cursor-pointer">Services</li>
+            <li className="text-base text-stone-700 hover:text-zinc-800 shadow-md duration-100 transition-all ease-in-out cursor-pointer">Why Order @RentalParrot</li>
           </motion.ul>
 
           <div className="relative flex items-center justify-center ml-4">
