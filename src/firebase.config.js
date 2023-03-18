@@ -4,7 +4,7 @@ import { getStorage } from "firebase/storage";
 
 const firebaseConfig = {
     apiKey: "AIzaSyCW3qIWlwdAkD8y2vpDQNhwtZnbHMCTgr8",
-    authDomain: "subhojyoti99.github.io",
+    authDomain: "subhojyoti99.github.io/assessment/",
     databaseURL: "https://tenant-cbe26-default-rtdb.firebaseio.com",
     projectId: "tenant-cbe26",
     storageBucket: "tenant-cbe26.appspot.com",
